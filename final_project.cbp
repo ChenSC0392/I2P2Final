@@ -41,46 +41,44 @@
 			<Add option="-fexceptions" />
 			<Add directory="allegro/include" />
 		</Compiler>
-		<Unit filename="GameWindow.c">
+		<Unit filename="GameWindow.cpp">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="GameWindow.h" />
-		<Unit filename="campus_scene.c">
+		<Unit filename="campus_scene.cpp">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="campus_scene.h" />
-		<Unit filename="choose_scene.c">
+		<Unit filename="choose_scene.cpp">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="choose_scene.h" />
-		<Unit filename="classroom_end_scene.c">
+		<Unit filename="classroom_end_scene.cpp">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="classroom_end_scene.h" />
-		<Unit filename="classroom_scene.c">
-			<Option compilerVar="CC" />
-		</Unit>
+		<Unit filename="classroom_scene.cpp" />
 		<Unit filename="classroom_scene.h" />
-		<Unit filename="global.c">
+		<Unit filename="global.cpp">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="global.h" />
-		<Unit filename="main.c">
+		<Unit filename="main.cpp">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="menu.c">
+		<Unit filename="menu.cpp">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="menu.h" />
-		<Unit filename="outside_end_scene.c">
+		<Unit filename="outside_end_scene.cpp">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="outside_end_scene.h" />
-		<Unit filename="outside_scene.c">
+		<Unit filename="outside_scene.cpp">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="outside_scene.h" />
-		<Unit filename="utils.c">
+		<Unit filename="utils.cpp">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="utils.h" />
